@@ -4,7 +4,7 @@ ________________________________________________________________________________
 **CONTEÚDOS APRENDIDOS:**
 
 * *"Estrutura Sequencial"*
-    *Estrutura Básica da sintaxe da linguagem
+    * Estrutura Básica da sintaxe da linguagem
 * *"Estrutura Condicional"*
     * if / else
     * switch case
