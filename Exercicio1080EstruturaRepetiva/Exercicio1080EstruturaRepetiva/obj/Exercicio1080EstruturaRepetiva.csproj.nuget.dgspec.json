@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projeto MVC\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva.csproj": {}
+    "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projetos Visual Studio C sharp\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva.csproj": {}
   },
   "projects": {
-    "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projeto MVC\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva.csproj": {
+    "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projetos Visual Studio C sharp\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projeto MVC\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva.csproj",
+        "projectUniqueName": "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projetos Visual Studio C sharp\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva.csproj",
         "projectName": "Exercicio1080EstruturaRepetiva",
-        "projectPath": "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projeto MVC\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva.csproj",
+        "projectPath": "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projetos Visual Studio C sharp\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva.csproj",
         "packagesPath": "C:\\Users\\hugo\\.nuget\\packages\\",
-        "outputPath": "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projeto MVC\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva\\obj\\",
+        "outputPath": "D:\\Ambiente_Desenvolvimento\\Aulas_C#\\Projetos Visual Studio C sharp\\Exercicio1080EstruturaRepetiva\\Exercicio1080EstruturaRepetiva\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
