@@ -12,3 +12,7 @@ ________________________________________________________________________________
     * while
     * for
     * do / while
+* *"Estrutura de dados - Vetor(Matriz unidimensional)"*
+    * Criar um vetor
+    * Instânciação do vetor e definição de tamanho
+    * Exibir os dados de um vetor utilizando a estrutura (FOR, FOREACH)
